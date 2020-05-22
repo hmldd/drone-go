@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/drone/drone-go/drone"
+	"github.com/hmldd/drone-go/drone"
 
 	"github.com/99designs/httpsignatures-go"
 )

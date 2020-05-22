@@ -17,7 +17,7 @@ package converter
 import (
 	"context"
 
-	"github.com/drone/drone-go/drone"
+	"github.com/hmldd/drone-go/drone"
 )
 
 // V1 is version 1 of the converter API

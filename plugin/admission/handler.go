@@ -19,7 +19,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/drone/drone-go/plugin/logger"
+	"github.com/hmldd/drone-go/plugin/logger"
 
 	"github.com/99designs/httpsignatures-go"
 )

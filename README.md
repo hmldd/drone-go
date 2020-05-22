@@ -6,7 +6,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/drone/drone-go/drone"
+	"github.com/hmldd/drone-go/drone"
 	"golang.org/x/oauth2"
 )
 

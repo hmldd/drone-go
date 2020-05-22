@@ -17,7 +17,7 @@ package validator
 import (
 	"context"
 
-	"github.com/drone/drone-go/plugin/internal/client"
+	"github.com/hmldd/drone-go/plugin/internal/client"
 )
 
 // Client returns a new plugin client.
